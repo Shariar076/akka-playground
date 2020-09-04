@@ -9,4 +9,6 @@ target/
 
 .metals
 .bloop
+venv
+venv/*
 src/main/python/venv
