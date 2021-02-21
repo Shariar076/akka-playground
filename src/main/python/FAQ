@@ -1,0 +1,3 @@
+Is there a defined process how to train a model on a growing trainset:
+    a) Wait for some amount then fit it
+    b) Keep fitting individually as it comes in
